@@ -5,7 +5,7 @@
 
 I'm Malin - aka vonEdfa - and sometimes I write code. :)
 
-- 🎮 I'm currently building with VR games with [@NeatCorp](https://github.com/NeatCorp)
+- 🎮 I'm currently building VR games with [@NeatCorp](https://github.com/NeatCorp)
 - 👉 Buy our games on [Steam](https://store.steampowered.com/developer/NeatCorp/list/60022), [Hunble Bundle](https://www.humblebundle.com/store/search?sort=bestselling&developer=Neat%20Corporation) and [Oculus](https://www.oculus.com/experiences/rift/1653313354717205)!
 
 ---
