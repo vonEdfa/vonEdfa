@@ -8,11 +8,11 @@ I'm Malin - aka vonEdfa - and sometimes I write code. :)
 - ✨ I'm currently building various things with [AFRY](https://afry.com)
 - 📌 Previously at Neat Corp, TV4, Kambi, EA DICE and more...
 
----
+<!---
 
 ![vonEdfa's GitHub stats](https://github-readme-stats.vercel.app/api?username=vonEdfa&hide_title=true&show_icons=true&count_private=true&hide_border=true&theme=github_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vonEdfa&layout=compact&hide=tcl&hide_border=true&theme=github_dark)](.)
-
+-->
 <!--
 **vonEdfa/vonEdfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
