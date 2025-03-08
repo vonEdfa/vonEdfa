@@ -1,5 +1,4 @@
 [![GitHub followers](https://img.shields.io/github/followers/vonedfa?label=Followers&logo=github&style=for-the-badge&color=lightgray)](https://github.com/vonEdfa)
-[![Twitter Follow](https://img.shields.io/twitter/follow/vonEdfa?label=@vonedfa&logo=twitter&style=for-the-badge&color=lightgray)](https://twitter.com/vonEdfa)
 
 ### Hi there 👋
 
